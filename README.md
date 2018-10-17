@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ryanelhamriRP/RPcollectionstracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanelhamriRP/RPcollectionstracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe
+  width="600"
+  height="400"
+  seamless
+  frameBorder="0"
+  scrolling="no"
+  src="https://superset.ratedpeople.com/superset/explore/?form_data=%7B%22datasource%22%3A%22301__table%22%2C%22viz_type%22%3A%22table%22%2C%22granularity_sqla%22%3A%22potential_churn_date%22%2C%22time_grain_sqla%22%3Anull%2C%22since%22%3A%22100+years+ago%22%2C%22until%22%3A%22now%22%2C%22groupby%22%3A%5B%5D%2C%22metrics%22%3A%5B%5D%2C%22percent_metrics%22%3A%5B%5D%2C%22timeseries_limit_metric%22%3Anull%2C%22row_limit%22%3A10000%2C%22include_time%22%3Afalse%2C%22order_desc%22%3Atrue%2C%22all_columns%22%3A%5B%22user_id%22%2C%22plan_cost_ex_vat%22%2C%22last_plan_type%22%2C%22potential_churn_date%22%2C%22last_plan%22%2C%22overdue_since%22%2C%22jbilling_user_status_id%22%5D%2C%22order_by_cols%22%3A%5B%5D%2C%22adhoc_filters%22%3Anull%2C%22table_timestamp_format%22%3A%22%25Y-%25m-%25d+%25H%3A%25M%3A%25S%22%2C%22page_length%22%3A0%2C%22include_search%22%3Afalse%2C%22table_filter%22%3Afalse%2C%22align_pn%22%3Afalse%2C%22color_pn%22%3Atrue%2C%22url_params%22%3A%7B%7D%2C%22limit%22%3A%220%22%7D&standalone=true&height=400"
+>
+</iframe>
